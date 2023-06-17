@@ -1,0 +1,226 @@
+2023-06-14T03:49:39.586964Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.26) starting as process 300
+2023-06-14T03:49:39.614444Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2023-06-14T03:49:39.645009Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-06-14T03:49:39.756499Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:40.759352Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:41.763074Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:42.766901Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:43.771467Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:44.778381Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:45.782573Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:46.786237Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:47.789417Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:48.793417Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:49.799316Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:50.803528Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:51.809316Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:52.814826Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:53.820361Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:54.826078Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:55.831880Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:56.837264Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:57.841281Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:58.846325Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:49:59.850377Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:00.855201Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:01.861866Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:02.866216Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:03.872366Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:04.878535Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:05.885046Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:06.889170Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:07.895060Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:08.900781Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:09.906831Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:10.913059Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:11.920200Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:12.926125Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:13.931133Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:14.936575Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:15.945818Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:16.951937Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:17.958951Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:18.965848Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:19.974097Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:20.980778Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:21.987371Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:22.993927Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:23.999986Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:25.006087Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:26.013102Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:27.019621Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:28.026760Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:29.033774Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:30.039659Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:31.046374Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:32.052257Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:33.056336Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:34.063614Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:35.070552Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:36.076055Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:37.081427Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:38.088401Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:39.095355Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:40.100883Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:41.106577Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:42.113674Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:43.118898Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:44.126029Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:45.131962Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:46.140420Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:47.146829Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:48.153881Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:49.160524Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:50.165849Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:51.180004Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:52.186135Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:53.194068Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:54.202346Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:55.207414Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:56.214489Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:57.222465Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:58.230737Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:50:59.236557Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:00.243979Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:01.252258Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:02.260227Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:03.267263Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:04.277741Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:05.286313Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:06.294690Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:07.302679Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:08.310775Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:09.318373Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:10.325705Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:11.332242Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:12.340268Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:13.346525Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:14.354855Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:15.362287Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:16.368935Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:17.375327Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:18.382270Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:19.391290Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:20.399679Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-14T03:51:20.419994Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 11 in a file operation.
+2023-06-14T03:51:20.423332Z 1 [ERROR] [MY-012596] [InnoDB] Error number 11 means 'Resource temporarily unavailable'
+2023-06-14T03:51:20.426655Z 1 [ERROR] [MY-012215] [InnoDB] Cannot open datafile './ibdata1'
+2023-06-14T03:51:20.429112Z 1 [ERROR] [MY-012959] [InnoDB] Could not open or create the system tablespace. If you tried to add new data files to the system tablespace, and it failed here, you should now edit innodb_data_file_path in my.cnf back to what it was, and remove the new ibdata files InnoDB created in this failed attempt. InnoDB only wrote those files full of zeros, but did not yet use them in any way. But be careful: do not remove old data files which contain your precious data!
+2023-06-14T03:51:20.431213Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Cannot open a file.
+2023-06-14T03:51:20.862699Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-06-14T03:51:20.865795Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-06-14T03:51:20.869324Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-06-14T03:51:20.872206Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.26)  MySQL Community Server - GPL.
+2023-06-16T14:21:13.938756Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.26) starting as process 298
+2023-06-16T14:21:14.055821Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2023-06-16T14:21:14.205004Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-06-16T14:21:14.464307Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:15.467955Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:16.471776Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:17.475784Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:18.480839Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:19.485728Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:20.489101Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:21.495630Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:22.501050Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:23.505328Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:24.509765Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:25.514876Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:26.518826Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:27.522759Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:28.526989Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:29.530974Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:30.537658Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:31.542178Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:32.545276Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:33.549442Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:34.554798Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:35.560628Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:36.564412Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:37.569031Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:38.574847Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:39.579725Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:40.585689Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:41.591637Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:42.595809Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:43.603602Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:44.609860Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:45.615400Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:46.619121Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:47.625590Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:48.629721Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:49.635261Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:50.641783Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:51.647995Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:52.652926Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:53.659540Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:54.663885Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:55.669257Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:56.675630Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:57.681811Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:58.685820Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:21:59.692456Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:00.699115Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:01.703995Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:02.711760Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:03.718315Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:04.721279Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:05.728160Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:06.734770Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:07.741143Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:08.747464Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:09.753792Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:10.761187Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:11.766194Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:12.777006Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:13.782566Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:14.789210Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:15.795994Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:16.802155Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:17.807824Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:18.811438Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:19.817331Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:20.985355Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:21.988882Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:22.998406Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:24.002170Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:25.008008Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:26.015525Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:27.022550Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:28.029904Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:29.042424Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:30.049191Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:31.056714Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:32.064524Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:33.071059Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:34.079444Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:35.085721Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:36.090435Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:37.098408Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:38.104966Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:39.108855Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:40.115663Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:41.120750Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:42.126576Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:43.135447Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:44.140833Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:45.146312Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:46.152875Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:47.158667Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:48.165060Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:49.168877Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:50.177618Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:51.181036Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:52.186194Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:53.195830Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:54.202578Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:55.212878Z 1 [ERROR] [MY-012574] [InnoDB] Unable to lock ./ibdata1 error: 11
+2023-06-16T14:22:55.223434Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 11 in a file operation.
+2023-06-16T14:22:55.227748Z 1 [ERROR] [MY-012596] [InnoDB] Error number 11 means 'Resource temporarily unavailable'
+2023-06-16T14:22:55.234815Z 1 [ERROR] [MY-012215] [InnoDB] Cannot open datafile './ibdata1'
+2023-06-16T14:22:55.238679Z 1 [ERROR] [MY-012959] [InnoDB] Could not open or create the system tablespace. If you tried to add new data files to the system tablespace, and it failed here, you should now edit innodb_data_file_path in my.cnf back to what it was, and remove the new ibdata files InnoDB created in this failed attempt. InnoDB only wrote those files full of zeros, but did not yet use them in any way. But be careful: do not remove old data files which contain your precious data!
+2023-06-16T14:22:55.240818Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Cannot open a file.
+2023-06-16T14:22:55.570945Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2023-06-16T14:22:55.578582Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2023-06-16T14:22:55.583117Z 0 [ERROR] [MY-010119] [Server] Aborting
+2023-06-16T14:22:55.594752Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.26)  MySQL Community Server - GPL.
